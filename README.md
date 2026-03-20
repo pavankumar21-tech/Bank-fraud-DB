@@ -27,9 +27,4 @@ Fraud Detection in Banking Transactions using DBMS (MySQL)
 5. Run `views.sql` for reporting views
 6. Test: Insert suspicious transaction & check `fraud_alerts` table
 
-## Screenshots
-![Database Tables](screenshots/show-tables.png)  
-![Fraud Alerts Example](screenshots/fraud-alerts.png)  
-![Views Output](screenshots/views.png)  
 
-(Replace with your actual screenshot file names)
